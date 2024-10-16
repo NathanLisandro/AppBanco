@@ -1,0 +1,24 @@
+{
+  "accounts": [
+    {
+      "id": "2",
+      "name": "Maria Fernandes",
+      "balance": 3200
+    },
+    {
+      "id": "3",
+      "name": "Carlos Eduardo",
+      "balance": 850.5
+    },
+    {
+      "id": "4",
+      "name": "Ana Paula",
+      "balance": 2750.3
+    },
+    {
+      "name": "Teste8",
+      "balance": 78852,
+      "id": "496f"
+    }
+  ]
+}
